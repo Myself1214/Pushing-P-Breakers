@@ -9,15 +9,17 @@ import plotly.express as px
 from dash.dependencies import Input, Output
 import pymssql
 import plotly.graph_objects as go
-
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
 
 import warnings # The method used in class gives a warning when using pd.read_sql, this will ignore the warning message
 warnings.simplefilter(action='ignore', category=UserWarning)
 
-database = "luisriveraDB"
-table = "dbo.Live_Feed" # It does not like hyphens for some reason
-user = "Luis"
-password  = "03051998Lr"
+database = "Pushing-P-DB"
+table = "dbo.Master_Table" # It does not like hyphens for some reason
+user = "pushing_p"
+password  = "t3stP@ssword"
 server = "gen10-data-fundamentals-22-02-sql-server.database.windows.net"
 
 
@@ -33,16 +35,14 @@ def Get_Data():
         # converting to pandas dataframe
         df = pd.DataFrame(df)
 
-        # Here I convert "Longitude" and "Latitude" as float
-        df.Longitude = df.Longitude.astype(float)
+        
 
-        df.Latitude = df.Latitude.astype(float)
 
-        # This is where I format the TimeStamp to "ms" and then I have to for some reason use ".dt.strftime('%Y-%m-%d %H:%M:%S')" because the format in the table chances when I print it out
-        df['TimeStamp'] = pd.to_datetime(df['TimeStamp'], unit='ms').dt.strftime('%Y-%m-%d %H:%M:%S')
+        # # This is where I format the TimeStamp to "ms" and then I have to for some reason use ".dt.strftime('%Y-%m-%d %H:%M:%S')" because the format in the table chances when I print it out
+        # df['TimeStamp'] = pd.to_datetime(df['TimeStamp'], unit='ms').dt.strftime('%Y-%m-%d %H:%M:%S')
 
-        # This is where I order based off of timestamp for my fifth dataframe
-        df = df.sort_values(by='TimeStamp',ascending=False)
+        # # This is where I order based off of timestamp for my fifth dataframe
+        # df = df.sort_values(by='TimeStamp',ascending=False)
 
         return df
 
@@ -158,7 +158,7 @@ app.layout = html.Div(
                 html.P(children="🚓", style={'fontSize': "30px",'textAlign': 'center'}, className="header-emoji"), 
                 #Header title
                 html.H1(
-                    children="Pokemon Dash Dashboard",style={'textAlign': 'center'}, className="header-title" 
+                    children="Metrics of Uninsured in New Jersey",style={'textAlign': 'center'}, className="header-title" 
                 ),
                 #Description below the header
                 html.H2(
