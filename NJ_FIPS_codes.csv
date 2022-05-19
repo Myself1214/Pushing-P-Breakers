@@ -1,0 +1,571 @@
+NJ,34,001,Atlantic County,00000,County subdivisions not defined,F
+NJ,34,001,Atlantic County,00100,Absecon city,F
+NJ,34,001,Atlantic County,02080,Atlantic City city,F
+NJ,34,001,Atlantic County,07810,Brigantine city,F
+NJ,34,001,Atlantic County,08680,Buena borough,F
+NJ,34,001,Atlantic County,08710,Buena Vista township,A
+NJ,34,001,Atlantic County,15160,Corbin City city,F
+NJ,34,001,Atlantic County,20290,Egg Harbor township,A
+NJ,34,001,Atlantic County,20350,Egg Harbor City city,F
+NJ,34,001,Atlantic County,21870,Estell Manor city,F
+NJ,34,001,Atlantic County,23940,Folsom borough,F
+NJ,34,001,Atlantic County,25560,Galloway township,A
+NJ,34,001,Atlantic County,29280,Hamilton township,A
+NJ,34,001,Atlantic County,29430,Hammonton town,F
+NJ,34,001,Atlantic County,40530,Linwood city,F
+NJ,34,001,Atlantic County,41370,Longport borough,F
+NJ,34,001,Atlantic County,43890,Margate City city,F
+NJ,34,001,Atlantic County,49410,Mullica township,A
+NJ,34,001,Atlantic County,52950,Northfield city,F
+NJ,34,001,Atlantic County,59640,Pleasantville city,F
+NJ,34,001,Atlantic County,60600,Port Republic city,F
+NJ,34,001,Atlantic County,68430,Somers Point city,F
+NJ,34,001,Atlantic County,75620,Ventnor City city,F
+NJ,34,001,Atlantic County,80330,Weymouth township,A
+NJ,34,003,Bergen County,00700,Allendale borough,F
+NJ,34,003,Bergen County,01090,Alpine borough,F
+NJ,34,003,Bergen County,05170,Bergenfield borough,F
+NJ,34,003,Bergen County,06490,Bogota borough,F
+NJ,34,003,Bergen County,10480,Carlstadt borough,F
+NJ,34,003,Bergen County,13570,Cliffside Park borough,F
+NJ,34,003,Bergen County,13810,Closter borough,F
+NJ,34,003,Bergen County,15820,Cresskill borough,F
+NJ,34,003,Bergen County,17530,Demarest borough,F
+NJ,34,003,Bergen County,18400,Dumont borough,F
+NJ,34,003,Bergen County,19510,East Rutherford borough,F
+NJ,34,003,Bergen County,20020,Edgewater borough,F
+NJ,34,003,Bergen County,21300,Elmwood Park borough,F
+NJ,34,003,Bergen County,21450,Emerson borough,F
+NJ,34,003,Bergen County,21480,Englewood city,F
+NJ,34,003,Bergen County,21510,Englewood Cliffs borough,F
+NJ,34,003,Bergen County,22470,Fair Lawn borough,F
+NJ,34,003,Bergen County,22560,Fairview borough,F
+NJ,34,003,Bergen County,24420,Fort Lee borough,F
+NJ,34,003,Bergen County,24990,Franklin Lakes borough,F
+NJ,34,003,Bergen County,25770,Garfield city,F
+NJ,34,003,Bergen County,26640,Glen Rock borough,F
+NJ,34,003,Bergen County,28680,Hackensack city,F
+NJ,34,003,Bergen County,30150,Harrington Park borough,F
+NJ,34,003,Bergen County,30420,Hasbrouck Heights borough,F
+NJ,34,003,Bergen County,30540,Haworth borough,F
+NJ,34,003,Bergen County,31920,Hillsdale borough,F
+NJ,34,003,Bergen County,32310,Ho-Ho-Kus borough,F
+NJ,34,003,Bergen County,40020,Leonia borough,F
+NJ,34,003,Bergen County,40680,Little Ferry borough,F
+NJ,34,003,Bergen County,41100,Lodi borough,F
+NJ,34,003,Bergen County,42090,Lyndhurst township,A
+NJ,34,003,Bergen County,42750,Mahwah township,A
+NJ,34,003,Bergen County,44880,Maywood borough,F
+NJ,34,003,Bergen County,46110,Midland Park borough,F
+NJ,34,003,Bergen County,47610,Montvale borough,F
+NJ,34,003,Bergen County,47700,Moonachie borough,F
+NJ,34,003,Bergen County,51660,New Milford borough,F
+NJ,34,003,Bergen County,52320,North Arlington borough,F
+NJ,34,003,Bergen County,53430,Northvale borough,F
+NJ,34,003,Bergen County,53610,Norwood borough,F
+NJ,34,003,Bergen County,53850,Oakland borough,F
+NJ,34,003,Bergen County,54870,Old Tappan borough,F
+NJ,34,003,Bergen County,54990,Oradell borough,F
+NJ,34,003,Bergen County,55770,Palisades Park borough,F
+NJ,34,003,Bergen County,55950,Paramus borough,F
+NJ,34,003,Bergen County,56130,Park Ridge borough,F
+NJ,34,003,Bergen County,61680,Ramsey borough,F
+NJ,34,003,Bergen County,62910,Ridgefield borough,F
+NJ,34,003,Bergen County,62940,Ridgefield Park village,F
+NJ,34,003,Bergen County,63000,Ridgewood village,F
+NJ,34,003,Bergen County,63360,River Edge borough,F
+NJ,34,003,Bergen County,63690,River Vale township,A
+NJ,34,003,Bergen County,63990,Rochelle Park township,A
+NJ,34,003,Bergen County,64170,Rockleigh borough,F
+NJ,34,003,Bergen County,65280,Rutherford borough,F
+NJ,34,003,Bergen County,65340,Saddle Brook township,A
+NJ,34,003,Bergen County,65400,Saddle River borough,F
+NJ,34,003,Bergen County,68970,South Hackensack township,A
+NJ,34,003,Bergen County,72360,Teaneck township,A
+NJ,34,003,Bergen County,72420,Tenafly borough,F
+NJ,34,003,Bergen County,72480,Teterboro borough,F
+NJ,34,003,Bergen County,75140,Upper Saddle River borough,F
+NJ,34,003,Bergen County,76400,Waldwick borough,F
+NJ,34,003,Bergen County,76490,Wallington borough,F
+NJ,34,003,Bergen County,77135,Washington township,A
+NJ,34,003,Bergen County,80270,Westwood borough,F
+NJ,34,003,Bergen County,82300,Woodcliff Lake borough,F
+NJ,34,003,Bergen County,82570,Wood-Ridge borough,F
+NJ,34,003,Bergen County,83050,Wyckoff township,A
+NJ,34,005,Burlington County,03370,Bass River township,A
+NJ,34,005,Burlington County,05740,Beverly city,F
+NJ,34,005,Burlington County,06670,Bordentown city,F
+NJ,34,005,Burlington County,06700,Bordentown township,A
+NJ,34,005,Burlington County,08920,Burlington city,F
+NJ,34,005,Burlington County,08950,Burlington township,A
+NJ,34,005,Burlington County,12670,Chesterfield township,A
+NJ,34,005,Burlington County,12940,Cinnaminson township,A
+NJ,34,005,Burlington County,17080,Delanco township,A
+NJ,34,005,Burlington County,17440,Delran township,A
+NJ,34,005,Burlington County,18790,Eastampton township,A
+NJ,34,005,Burlington County,20050,Edgewater Park township,A
+NJ,34,005,Burlington County,22110,Evesham township,A
+NJ,34,005,Burlington County,23250,Fieldsboro borough,F
+NJ,34,005,Burlington County,23850,Florence township,A
+NJ,34,005,Burlington County,29010,Hainesport township,A
+NJ,34,005,Burlington County,42060,Lumberton township,A
+NJ,34,005,Burlington County,43290,Mansfield township,A
+NJ,34,005,Burlington County,43740,Maple Shade township,A
+NJ,34,005,Burlington County,45120,Medford township,A
+NJ,34,005,Burlington County,45210,Medford Lakes borough,F
+NJ,34,005,Burlington County,47880,Moorestown township,A
+NJ,34,005,Burlington County,48900,Mount Holly township,A
+NJ,34,005,Burlington County,49020,Mount Laurel township,A
+NJ,34,005,Burlington County,51510,New Hanover township,A
+NJ,34,005,Burlington County,53070,North Hanover township,A
+NJ,34,005,Burlington County,55800,Palmyra borough,F
+NJ,34,005,Burlington County,57480,Pemberton borough,F
+NJ,34,005,Burlington County,57510,Pemberton township,A
+NJ,34,005,Burlington County,63510,Riverside township,A
+NJ,34,005,Burlington County,63660,Riverton borough,F
+NJ,34,005,Burlington County,66810,Shamong township,A
+NJ,34,005,Burlington County,68610,Southampton township,A
+NJ,34,005,Burlington County,69990,Springfield township,A
+NJ,34,005,Burlington County,72060,Tabernacle township,A
+NJ,34,005,Burlington County,77150,Washington township,A
+NJ,34,005,Burlington County,78200,Westampton township,A
+NJ,34,005,Burlington County,81440,Willingboro township,A
+NJ,34,005,Burlington County,82420,Woodland township,A
+NJ,34,005,Burlington County,82960,Wrightstown borough,F
+NJ,34,007,Camden County,02200,Audubon borough,F
+NJ,34,007,Camden County,02230,Audubon Park borough,F
+NJ,34,007,Camden County,03250,Barrington borough,F
+NJ,34,007,Camden County,04750,Bellmawr borough,F
+NJ,34,007,Camden County,05440,Berlin borough,F
+NJ,34,007,Camden County,05470,Berlin township,A
+NJ,34,007,Camden County,08170,Brooklawn borough,F
+NJ,34,007,Camden County,10000,Camden city,F
+NJ,34,007,Camden County,12280,Cherry Hill township,A
+NJ,34,007,Camden County,12550,Chesilhurst borough,F
+NJ,34,007,Camden County,13420,Clementon borough,F
+NJ,34,007,Camden County,14260,Collingswood borough,F
+NJ,34,007,Camden County,26070,Gibbsboro borough,F
+NJ,34,007,Camden County,26760,Gloucester township,A
+NJ,34,007,Camden County,26820,Gloucester City city,F
+NJ,34,007,Camden County,28740,Haddon township,A
+NJ,34,007,Camden County,28770,Haddonfield borough,F
+NJ,34,007,Camden County,28800,Haddon Heights borough,F
+NJ,34,007,Camden County,32220,Hi-Nella borough,F
+NJ,34,007,Camden County,39210,Laurel Springs borough,F
+NJ,34,007,Camden County,39420,Lawnside borough,F
+NJ,34,007,Camden County,40440,Lindenwold borough,F
+NJ,34,007,Camden County,42630,Magnolia borough,F
+NJ,34,007,Camden County,45510,Merchantville borough,F
+NJ,34,007,Camden County,48750,Mount Ephraim borough,F
+NJ,34,007,Camden County,53880,Oaklyn borough,F
+NJ,34,007,Camden County,57660,Pennsauken township,A
+NJ,34,007,Camden County,58770,Pine Hill borough,F
+NJ,34,007,Camden County,58920,Pine Valley borough,F
+NJ,34,007,Camden County,65160,Runnemede borough,F
+NJ,34,007,Camden County,68340,Somerdale borough,F
+NJ,34,007,Camden County,71220,Stratford borough,F
+NJ,34,007,Camden County,72240,Tavistock borough,F
+NJ,34,007,Camden County,76220,Voorhees township,A
+NJ,34,007,Camden County,77630,Waterford township,A
+NJ,34,007,Camden County,81740,Winslow township,A
+NJ,34,007,Camden County,82450,Woodlynne borough,F
+NJ,34,009,Cape May County,00000,County subdivisions not defined,F
+NJ,34,009,Cape May County,02320,Avalon borough,F
+NJ,34,009,Cape May County,10270,Cape May city,F
+NJ,34,009,Cape May County,10330,Cape May Point borough,F
+NJ,34,009,Cape May County,17560,Dennis township,A
+NJ,34,009,Cape May County,41610,Lower township,A
+NJ,34,009,Cape May County,45810,Middle township,A
+NJ,34,009,Cape May County,53490,North Wildwood city,F
+NJ,34,009,Cape May County,54360,Ocean City city,F
+NJ,34,009,Cape May County,66390,Sea Isle City city,F
+NJ,34,009,Cape May County,71010,Stone Harbor borough,F
+NJ,34,009,Cape May County,74810,Upper township,A
+NJ,34,009,Cape May County,78530,West Cape May borough,F
+NJ,34,009,Cape May County,80210,West Wildwood borough,F
+NJ,34,009,Cape May County,81170,Wildwood city,F
+NJ,34,009,Cape May County,81200,Wildwood Crest borough,F
+NJ,34,009,Cape May County,81890,Woodbine borough,F
+NJ,34,011,Cumberland County,00000,County subdivisions not defined,F
+NJ,34,011,Cumberland County,07600,Bridgeton city,F
+NJ,34,011,Cumberland County,14710,Commercial township,A
+NJ,34,011,Cumberland County,16900,Deerfield township,A
+NJ,34,011,Cumberland County,18220,Downe township,A
+NJ,34,011,Cumberland County,22350,Fairfield township,A
+NJ,34,011,Cumberland County,28170,Greenwich township,A
+NJ,34,011,Cumberland County,33120,Hopewell township,A
+NJ,34,011,Cumberland County,39450,Lawrence township,A
+NJ,34,011,Cumberland County,44580,Maurice River township,A
+NJ,34,011,Cumberland County,46680,Millville city,F
+NJ,34,011,Cumberland County,67020,Shiloh borough,F
+NJ,34,011,Cumberland County,71160,Stow Creek township,A
+NJ,34,011,Cumberland County,74870,Upper Deerfield township,A
+NJ,34,011,Cumberland County,76070,Vineland city,F
+NJ,34,013,Essex County,04695,Belleville township,A
+NJ,34,013,Essex County,06260,Bloomfield township,A
+NJ,34,013,Essex County,09250,Caldwell borough,F
+NJ,34,013,Essex County,11200,Cedar Grove township,A
+NJ,34,013,Essex County,13045,City of Orange township,A
+NJ,34,013,Essex County,19390,East Orange city,F
+NJ,34,013,Essex County,21840,Essex Fells borough,F
+NJ,34,013,Essex County,22385,Fairfield township,A
+NJ,34,013,Essex County,26610,Glen Ridge borough,F
+NJ,34,013,Essex County,34450,Irvington township,A
+NJ,34,013,Essex County,40890,Livingston township,A
+NJ,34,013,Essex County,43800,Maplewood township,A
+NJ,34,013,Essex County,46380,Millburn township,A
+NJ,34,013,Essex County,47500,Montclair township,A
+NJ,34,013,Essex County,51000,Newark city,F
+NJ,34,013,Essex County,52620,North Caldwell borough,F
+NJ,34,013,Essex County,53680,Nutley township,A
+NJ,34,013,Essex County,64590,Roseland borough,F
+NJ,34,013,Essex County,69274,South Orange Village township,A
+NJ,34,013,Essex County,75815,Verona township,A
+NJ,34,013,Essex County,78510,West Caldwell township,A
+NJ,34,013,Essex County,79800,West Orange township,A
+NJ,34,015,Gloucester County,13360,Clayton borough,F
+NJ,34,015,Gloucester County,17710,Deptford township,A
+NJ,34,015,Gloucester County,19180,East Greenwich township,A
+NJ,34,015,Gloucester County,21060,Elk township,A
+NJ,34,015,Gloucester County,24840,Franklin township,A
+NJ,34,015,Gloucester County,26340,Glassboro borough,F
+NJ,34,015,Gloucester County,28185,Greenwich township,A
+NJ,34,015,Gloucester County,30180,Harrison township,A
+NJ,34,015,Gloucester County,41160,Logan township,A
+NJ,34,015,Gloucester County,43440,Mantua township,A
+NJ,34,015,Gloucester County,47250,Monroe township,A
+NJ,34,015,Gloucester County,49680,National Park borough,F
+NJ,34,015,Gloucester County,51390,Newfield borough,F
+NJ,34,015,Gloucester County,57150,Paulsboro borough,F
+NJ,34,015,Gloucester County,59070,Pitman borough,F
+NJ,34,015,Gloucester County,69030,South Harrison township,A
+NJ,34,015,Gloucester County,71850,Swedesboro borough,F
+NJ,34,015,Gloucester County,77180,Washington township,A
+NJ,34,015,Gloucester County,78110,Wenonah borough,F
+NJ,34,015,Gloucester County,78800,West Deptford township,A
+NJ,34,015,Gloucester County,80120,Westville borough,F
+NJ,34,015,Gloucester County,82120,Woodbury city,F
+NJ,34,015,Gloucester County,82180,Woodbury Heights borough,F
+NJ,34,015,Gloucester County,82840,Woolwich township,A
+NJ,34,017,Hudson County,03580,Bayonne city,F
+NJ,34,017,Hudson County,19360,East Newark borough,F
+NJ,34,017,Hudson County,28650,Guttenberg town,F
+NJ,34,017,Hudson County,30210,Harrison town,F
+NJ,34,017,Hudson County,32250,Hoboken city,F
+NJ,34,017,Hudson County,36000,Jersey City city,F
+NJ,34,017,Hudson County,36510,Kearny town,F
+NJ,34,017,Hudson County,52470,North Bergen township,A
+NJ,34,017,Hudson County,66570,Secaucus town,F
+NJ,34,017,Hudson County,74630,Union City city,F
+NJ,34,017,Hudson County,77930,Weehawken township,A
+NJ,34,017,Hudson County,79610,West New York town,F
+NJ,34,019,Hunterdon County,00550,Alexandria township,A
+NJ,34,019,Hunterdon County,05650,Bethlehem township,A
+NJ,34,019,Hunterdon County,06370,Bloomsbury borough,F
+NJ,34,019,Hunterdon County,09280,Califon borough,F
+NJ,34,019,Hunterdon County,13720,Clinton town,F
+NJ,34,019,Hunterdon County,13750,Clinton township,A
+NJ,34,019,Hunterdon County,17170,Delaware township,A
+NJ,34,019,Hunterdon County,18820,East Amwell township,A
+NJ,34,019,Hunterdon County,23700,Flemington borough,F
+NJ,34,019,Hunterdon County,24870,Franklin township,A
+NJ,34,019,Hunterdon County,25350,Frenchtown borough,F
+NJ,34,019,Hunterdon County,26550,Glen Gardner borough,F
+NJ,34,019,Hunterdon County,29460,Hampton borough,F
+NJ,34,019,Hunterdon County,31320,High Bridge borough,F
+NJ,34,019,Hunterdon County,32460,Holland township,A
+NJ,34,019,Hunterdon County,37065,Kingwood township,A
+NJ,34,019,Hunterdon County,38610,Lambertville city,F
+NJ,34,019,Hunterdon County,39630,Lebanon borough,F
+NJ,34,019,Hunterdon County,39660,Lebanon township,A
+NJ,34,019,Hunterdon County,46260,Milford borough,F
+NJ,34,019,Hunterdon County,61920,Raritan township,A
+NJ,34,019,Hunterdon County,62250,Readington township,A
+NJ,34,019,Hunterdon County,70980,Stockton borough,F
+NJ,34,019,Hunterdon County,72510,Tewksbury township,A
+NJ,34,019,Hunterdon County,74420,Union township,A
+NJ,34,019,Hunterdon County,78230,West Amwell township,A
+NJ,34,021,Mercer County,19780,East Windsor township,A
+NJ,34,021,Mercer County,22185,Ewing township,A
+NJ,34,021,Mercer County,29310,Hamilton township,A
+NJ,34,021,Mercer County,31620,Hightstown borough,F
+NJ,34,021,Mercer County,33150,Hopewell borough,F
+NJ,34,021,Mercer County,33180,Hopewell township,A
+NJ,34,021,Mercer County,39510,Lawrence township,A
+NJ,34,021,Mercer County,57600,Pennington borough,F
+NJ,34,021,Mercer County,60900,Princeton borough,F
+NJ,34,021,Mercer County,60915,Princeton township,A
+NJ,34,021,Mercer County,63850,Robbinsville township,A
+NJ,34,021,Mercer County,74000,Trenton city,F
+NJ,34,021,Mercer County,80240,West Windsor township,A
+NJ,34,023,Middlesex County,10750,Carteret borough,F
+NJ,34,023,Middlesex County,15550,Cranbury township,A
+NJ,34,023,Middlesex County,18490,Dunellen borough,F
+NJ,34,023,Middlesex County,19000,East Brunswick township,A
+NJ,34,023,Middlesex County,20230,Edison township,A
+NJ,34,023,Middlesex County,30840,Helmetta borough,F
+NJ,34,023,Middlesex County,31470,Highland Park borough,F
+NJ,34,023,Middlesex County,34890,Jamesburg borough,F
+NJ,34,023,Middlesex County,45690,Metuchen borough,F
+NJ,34,023,Middlesex County,45900,Middlesex borough,F
+NJ,34,023,Middlesex County,46620,Milltown borough,F
+NJ,34,023,Middlesex County,47280,Monroe township,A
+NJ,34,023,Middlesex County,51210,New Brunswick city,F
+NJ,34,023,Middlesex County,52560,North Brunswick township,A
+NJ,34,023,Middlesex County,54705,Old Bridge township,A
+NJ,34,023,Middlesex County,58200,Perth Amboy city,F
+NJ,34,023,Middlesex County,59010,Piscataway township,A
+NJ,34,023,Middlesex County,59280,Plainsboro township,A
+NJ,34,023,Middlesex County,65790,Sayreville borough,F
+NJ,34,023,Middlesex County,68550,South Amboy city,F
+NJ,34,023,Middlesex County,68790,South Brunswick township,A
+NJ,34,023,Middlesex County,69390,South Plainfield borough,F
+NJ,34,023,Middlesex County,69420,South River borough,F
+NJ,34,023,Middlesex County,69810,Spotswood borough,F
+NJ,34,023,Middlesex County,82000,Woodbridge township,A
+NJ,34,025,Monmouth County,00000,County subdivisions not defined,F
+NJ,34,025,Monmouth County,00070,Aberdeen township,A
+NJ,34,025,Monmouth County,00730,Allenhurst borough,F
+NJ,34,025,Monmouth County,00760,Allentown borough,F
+NJ,34,025,Monmouth County,01960,Asbury Park city,F
+NJ,34,025,Monmouth County,02110,Atlantic Highlands borough,F
+NJ,34,025,Monmouth County,02440,Avon-by-the-Sea borough,F
+NJ,34,025,Monmouth County,04930,Belmar borough,F
+NJ,34,025,Monmouth County,06970,Bradley Beach borough,F
+NJ,34,025,Monmouth County,07750,Brielle borough,F
+NJ,34,025,Monmouth County,14560,Colts Neck township,A
+NJ,34,025,Monmouth County,16660,Deal borough,F
+NJ,34,025,Monmouth County,19840,Eatontown borough,F
+NJ,34,025,Monmouth County,21570,Englishtown borough,F
+NJ,34,025,Monmouth County,22440,Fair Haven borough,F
+NJ,34,025,Monmouth County,22950,Farmingdale borough,F
+NJ,34,025,Monmouth County,25200,Freehold borough,F
+NJ,34,025,Monmouth County,25230,Freehold township,A
+NJ,34,025,Monmouth County,30690,Hazlet township,A
+NJ,34,025,Monmouth County,31500,Highlands borough,F
+NJ,34,025,Monmouth County,32640,Holmdel township,A
+NJ,34,025,Monmouth County,33300,Howell township,A
+NJ,34,025,Monmouth County,34200,Interlaken borough,F
+NJ,34,025,Monmouth County,36480,Keansburg borough,F
+NJ,34,025,Monmouth County,36810,Keyport borough,F
+NJ,34,025,Monmouth County,37560,Lake Como borough,F
+NJ,34,025,Monmouth County,40770,Little Silver borough,F
+NJ,34,025,Monmouth County,41010,Loch Arbour village,F
+NJ,34,025,Monmouth County,41310,Long Branch city,F
+NJ,34,025,Monmouth County,42990,Manalapan township,A
+NJ,34,025,Monmouth County,43050,Manasquan borough,F
+NJ,34,025,Monmouth County,44070,Marlboro township,A
+NJ,34,025,Monmouth County,44520,Matawan borough,F
+NJ,34,025,Monmouth County,45990,Middletown township,A
+NJ,34,025,Monmouth County,46560,Millstone township,A
+NJ,34,025,Monmouth County,47130,Monmouth Beach borough,F
+NJ,34,025,Monmouth County,49890,Neptune township,A
+NJ,34,025,Monmouth County,49920,Neptune City borough,F
+NJ,34,025,Monmouth County,54270,Ocean township,A
+NJ,34,025,Monmouth County,54570,Oceanport borough,F
+NJ,34,025,Monmouth County,62430,Red Bank borough,F
+NJ,34,025,Monmouth County,64410,Roosevelt borough,F
+NJ,34,025,Monmouth County,65130,Rumson borough,F
+NJ,34,025,Monmouth County,66240,Sea Bright borough,F
+NJ,34,025,Monmouth County,66330,Sea Girt borough,F
+NJ,34,025,Monmouth County,67350,Shrewsbury borough,F
+NJ,34,025,Monmouth County,67365,Shrewsbury township,A
+NJ,34,025,Monmouth County,70110,Spring Lake borough,F
+NJ,34,025,Monmouth County,70140,Spring Lake Heights borough,F
+NJ,34,025,Monmouth County,73020,Tinton Falls borough,F
+NJ,34,025,Monmouth County,74540,Union Beach borough,F
+NJ,34,025,Monmouth County,74900,Upper Freehold township,A
+NJ,34,025,Monmouth County,76460,Wall township,A
+NJ,34,025,Monmouth County,79310,West Long Branch borough,F
+NJ,34,027,Morris County,06610,Boonton town,F
+NJ,34,027,Morris County,06640,Boonton township,A
+NJ,34,027,Morris County,09040,Butler borough,F
+NJ,34,027,Morris County,12100,Chatham borough,F
+NJ,34,027,Morris County,12130,Chatham township,A
+NJ,34,027,Morris County,12580,Chester borough,F
+NJ,34,027,Morris County,12610,Chester township,A
+NJ,34,027,Morris County,17650,Denville township,A
+NJ,34,027,Morris County,18070,Dover town,F
+NJ,34,027,Morris County,19210,East Hanover township,A
+NJ,34,027,Morris County,23910,Florham Park borough,F
+NJ,34,027,Morris County,29550,Hanover township,A
+NJ,34,027,Morris County,29700,Harding township,A
+NJ,34,027,Morris County,34980,Jefferson township,A
+NJ,34,027,Morris County,37110,Kinnelon borough,F
+NJ,34,027,Morris County,40290,Lincoln Park borough,F
+NJ,34,027,Morris County,41362,Long Hill township,A
+NJ,34,027,Morris County,42510,Madison borough,F
+NJ,34,027,Morris County,45330,Mendham borough,F
+NJ,34,027,Morris County,45360,Mendham township,A
+NJ,34,027,Morris County,46860,Mine Hill township,A
+NJ,34,027,Morris County,47670,Montville township,A
+NJ,34,027,Morris County,48090,Morris township,A
+NJ,34,027,Morris County,48210,Morris Plains borough,F
+NJ,34,027,Morris County,48300,Morristown town,F
+NJ,34,027,Morris County,48480,Mountain Lakes borough,F
+NJ,34,027,Morris County,48690,Mount Arlington borough,F
+NJ,34,027,Morris County,49080,Mount Olive township,A
+NJ,34,027,Morris County,50130,Netcong borough,F
+NJ,34,027,Morris County,56460,Parsippany-Troy Hills township,A
+NJ,34,027,Morris County,58110,Pequannock township,A
+NJ,34,027,Morris County,61890,Randolph township,A
+NJ,34,027,Morris County,63300,Riverdale borough,F
+NJ,34,027,Morris County,64050,Rockaway borough,F
+NJ,34,027,Morris County,64080,Rockaway township,A
+NJ,34,027,Morris County,64980,Roxbury township,A
+NJ,34,027,Morris County,75890,Victory Gardens borough,F
+NJ,34,027,Morris County,77240,Washington township,A
+NJ,34,027,Morris County,80390,Wharton borough,F
+NJ,34,029,Ocean County,00000,County subdivisions not defined,F
+NJ,34,029,Ocean County,03050,Barnegat township,A
+NJ,34,029,Ocean County,03130,Barnegat Light borough,F
+NJ,34,029,Ocean County,03520,Bay Head borough,F
+NJ,34,029,Ocean County,03940,Beach Haven borough,F
+NJ,34,029,Ocean County,04180,Beachwood borough,F
+NJ,34,029,Ocean County,05305,Berkeley township,A
+NJ,34,029,Ocean County,07420,Brick township,A
+NJ,34,029,Ocean County,18670,Eagleswood township,A
+NJ,34,029,Ocean County,30390,Harvey Cedars borough,F
+NJ,34,029,Ocean County,34530,Island Heights borough,F
+NJ,34,029,Ocean County,34680,Jackson township,A
+NJ,34,029,Ocean County,37380,Lacey township,A
+NJ,34,029,Ocean County,37770,Lakehurst borough,F
+NJ,34,029,Ocean County,38550,Lakewood township,A
+NJ,34,029,Ocean County,39390,Lavallette borough,F
+NJ,34,029,Ocean County,40560,Little Egg Harbor township,A
+NJ,34,029,Ocean County,41250,Long Beach township,A
+NJ,34,029,Ocean County,43140,Manchester township,A
+NJ,34,029,Ocean County,43380,Mantoloking borough,F
+NJ,34,029,Ocean County,54300,Ocean township,A
+NJ,34,029,Ocean County,54450,Ocean Gate borough,F
+NJ,34,029,Ocean County,58590,Pine Beach borough,F
+NJ,34,029,Ocean County,59790,Plumsted township,A
+NJ,34,029,Ocean County,59880,Point Pleasant borough,F
+NJ,34,029,Ocean County,59910,Point Pleasant Beach borough,F
+NJ,34,029,Ocean County,66450,Seaside Heights borough,F
+NJ,34,029,Ocean County,66480,Seaside Park borough,F
+NJ,34,029,Ocean County,67110,Ship Bottom borough,F
+NJ,34,029,Ocean County,69510,South Toms River borough,F
+NJ,34,029,Ocean County,70320,Stafford township,A
+NJ,34,029,Ocean County,71640,Surf City borough,F
+NJ,34,029,Ocean County,73125,Toms River township,A
+NJ,34,029,Ocean County,74210,Tuckerton borough,F
+NJ,34,031,Passaic County,06340,Bloomingdale borough,F
+NJ,34,031,Passaic County,13690,Clifton city,F
+NJ,34,031,Passaic County,29070,Haledon borough,F
+NJ,34,031,Passaic County,30570,Hawthorne borough,F
+NJ,34,031,Passaic County,40620,Little Falls township,A
+NJ,34,031,Passaic County,53040,North Haledon borough,F
+NJ,34,031,Passaic County,56550,Passaic city,F
+NJ,34,031,Passaic County,57000,Paterson city,F
+NJ,34,031,Passaic County,60090,Pompton Lakes borough,F
+NJ,34,031,Passaic County,61170,Prospect Park borough,F
+NJ,34,031,Passaic County,63150,Ringwood borough,F
+NJ,34,031,Passaic County,73140,Totowa borough,F
+NJ,34,031,Passaic County,76730,Wanaque borough,F
+NJ,34,031,Passaic County,77840,Wayne township,A
+NJ,34,031,Passaic County,79460,West Milford township,A
+NJ,34,031,Passaic County,82423,Woodland Park borough,F
+NJ,34,033,Salem County,00880,Alloway township,A
+NJ,34,033,Salem County,10610,Carneys Point township,A
+NJ,34,033,Salem County,21240,Elmer borough,F
+NJ,34,033,Salem County,21330,Elsinboro township,A
+NJ,34,033,Salem County,41640,Lower Alloways Creek township,A
+NJ,34,033,Salem County,43200,Mannington township,A
+NJ,34,033,Salem County,54810,Oldmans township,A
+NJ,34,033,Salem County,57750,Penns Grove borough,F
+NJ,34,033,Salem County,57870,Pennsville township,A
+NJ,34,033,Salem County,58530,Pilesgrove township,A
+NJ,34,033,Salem County,59130,Pittsgrove township,A
+NJ,34,033,Salem County,61470,Quinton township,A
+NJ,34,033,Salem County,65490,Salem city,F
+NJ,34,033,Salem County,75110,Upper Pittsgrove township,A
+NJ,34,033,Salem County,82720,Woodstown borough,F
+NJ,34,035,Somerset County,04450,Bedminster township,A
+NJ,34,035,Somerset County,05560,Bernards township,A
+NJ,34,035,Somerset County,05590,Bernardsville borough,F
+NJ,34,035,Somerset County,06790,Bound Brook borough,F
+NJ,34,035,Somerset County,07180,Branchburg township,A
+NJ,34,035,Somerset County,07720,Bridgewater township,A
+NJ,34,035,Somerset County,22890,Far Hills borough,F
+NJ,34,035,Somerset County,24900,Franklin township,A
+NJ,34,035,Somerset County,27510,Green Brook township,A
+NJ,34,035,Somerset County,31890,Hillsborough township,A
+NJ,34,035,Somerset County,43620,Manville borough,F
+NJ,34,035,Somerset County,46590,Millstone borough,F
+NJ,34,035,Somerset County,47580,Montgomery township,A
+NJ,34,035,Somerset County,53280,North Plainfield borough,F
+NJ,34,035,Somerset County,57300,Peapack and Gladstone borough,F
+NJ,34,035,Somerset County,61980,Raritan borough,F
+NJ,34,035,Somerset County,64320,Rocky Hill borough,F
+NJ,34,035,Somerset County,68460,Somerville borough,F
+NJ,34,035,Somerset County,68730,South Bound Brook borough,F
+NJ,34,035,Somerset County,76940,Warren township,A
+NJ,34,035,Somerset County,77600,Watchung borough,F
+NJ,34,037,Sussex County,01330,Andover borough,F
+NJ,34,037,Sussex County,01360,Andover township,A
+NJ,34,037,Sussex County,07300,Branchville borough,F
+NJ,34,037,Sussex County,09160,Byram township,A
+NJ,34,037,Sussex County,24810,Frankford township,A
+NJ,34,037,Sussex County,24930,Franklin borough,F
+NJ,34,037,Sussex County,25140,Fredon township,A
+NJ,34,037,Sussex County,27420,Green township,A
+NJ,34,037,Sussex County,29220,Hamburg borough,F
+NJ,34,037,Sussex County,29490,Hampton township,A
+NJ,34,037,Sussex County,29850,Hardyston township,A
+NJ,34,037,Sussex County,32910,Hopatcong borough,F
+NJ,34,037,Sussex County,37440,Lafayette township,A
+NJ,34,037,Sussex County,47430,Montague township,A
+NJ,34,037,Sussex County,51930,Newton town,F
+NJ,34,037,Sussex County,54660,Ogdensburg borough,F
+NJ,34,037,Sussex County,65700,Sandyston township,A
+NJ,34,037,Sussex County,69690,Sparta township,A
+NJ,34,037,Sussex County,70380,Stanhope borough,F
+NJ,34,037,Sussex County,70890,Stillwater township,A
+NJ,34,037,Sussex County,71670,Sussex borough,F
+NJ,34,037,Sussex County,75740,Vernon township,A
+NJ,34,037,Sussex County,76640,Walpack township,A
+NJ,34,037,Sussex County,76790,Wantage township,A
+NJ,34,039,Union County,05320,Berkeley Heights township,A
+NJ,34,039,Union County,13150,Clark township,A
+NJ,34,039,Union County,15640,Cranford township,A
+NJ,34,039,Union County,21000,Elizabeth city,F
+NJ,34,039,Union County,22860,Fanwood borough,F
+NJ,34,039,Union County,25800,Garwood borough,F
+NJ,34,039,Union County,31980,Hillside township,A
+NJ,34,039,Union County,36690,Kenilworth borough,F
+NJ,34,039,Union County,40350,Linden city,F
+NJ,34,039,Union County,48510,Mountainside borough,F
+NJ,34,039,Union County,51810,New Providence borough,F
+NJ,34,039,Union County,59190,Plainfield city,F
+NJ,34,039,Union County,61530,Rahway city,F
+NJ,34,039,Union County,64620,Roselle borough,F
+NJ,34,039,Union County,64650,Roselle Park borough,F
+NJ,34,039,Union County,66060,Scotch Plains township,A
+NJ,34,039,Union County,70020,Springfield township,A
+NJ,34,039,Union County,71430,Summit city,F
+NJ,34,039,Union County,74480,Union township,A
+NJ,34,039,Union County,79040,Westfield town,F
+NJ,34,039,Union County,81650,Winfield township,A
+NJ,34,041,Warren County,00670,Allamuchy township,A
+NJ,34,041,Warren County,01030,Alpha borough,F
+NJ,34,041,Warren County,04990,Belvidere town,F
+NJ,34,041,Warren County,06160,Blairstown township,A
+NJ,34,041,Warren County,24960,Franklin township,A
+NJ,34,041,Warren County,25320,Frelinghuysen township,A
+NJ,34,041,Warren County,28260,Greenwich township,A
+NJ,34,041,Warren County,28710,Hackettstown town,F
+NJ,34,041,Warren County,29820,Hardwick township,A
+NJ,34,041,Warren County,30090,Harmony township,A
+NJ,34,041,Warren County,33060,Hope township,A
+NJ,34,041,Warren County,33930,Independence township,A
+NJ,34,041,Warren County,37320,Knowlton township,A
+NJ,34,041,Warren County,40110,Liberty township,A
+NJ,34,041,Warren County,41490,Lopatcong township,A
+NJ,34,041,Warren County,43320,Mansfield township,A
+NJ,34,041,Warren County,55530,Oxford township,A
+NJ,34,041,Warren County,58350,Phillipsburg town,F
+NJ,34,041,Warren County,59820,Pohatcong township,A
+NJ,34,041,Warren County,77270,Washington borough,F
+NJ,34,041,Warren County,77300,Washington township,A
+NJ,34,041,Warren County,80570,White township,A
