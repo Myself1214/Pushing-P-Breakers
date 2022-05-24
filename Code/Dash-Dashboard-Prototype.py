@@ -21,6 +21,7 @@ user = "pushing_p"
 password  = "t3stP@ssword"
 server = "gen10-data-fundamentals-22-02-sql-server.database.windows.net"
 
+
 # Make function to retrieve data from database
 def Get_Data():
     try:
@@ -146,7 +147,7 @@ def Make_Plots(df):
 
 
     fig_4 = px.bar(df4, x='Age', y='Uninsured Rate By Age',color_discrete_sequence=["green"], title= f'The Rate Of Uninsured By Age For {county_name}', height = 500, width = 700)
-    fig_4.update_layout(xaxis={'categoryorder':'total descending'})
+    fig_4.update_layout(xaxis={'categoryorder':'total descending'}, width = 650)
 
 
     # this is where I center the title for the visualization
@@ -302,6 +303,7 @@ fig_1, fig_4, fig_5, fig_6, fig_7, fig_8 = Make_Plots(df)
 app = Dash(__name__)
 
 app.layout = html.Div(
+    style={'backgroundColor':'#111111'},
     # children=[
     #     html.Div(
     #         children=[
