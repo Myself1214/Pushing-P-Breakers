@@ -4,11 +4,11 @@ by: Pushing-P-Breakers: Sharif Rakhimov, Luis Rivera, Marjea Mckoy, Parth Patel,
 ## Objective
 Find resources on the uninsured population by filtering and arranging the information into a database, then evaluate and forecast the uninsured population in a certain geographic area based on a set of demographic factors. 
 
-###### Datasets
+## Datasets
 Small Area Health Insurance Estimates 2019 (SAHIE), NJ Uninsured, NJ Unemployed, NJ Income, Cartographic Boundary Files, Coverage for the Household Population by States, Unemployment by Counties , Census Tract in NJ 
 
 
-#  Exploratory Data Analysis
+## Exploratory Data Analysis
 1.) Top 10 cities of NJ with the highest number of uninsured residents
 
 
@@ -62,6 +62,15 @@ Small Area Health Insurance Estimates 2019 (SAHIE), NJ Uninsured, NJ Unemployed,
 [RepeatableETLReport.pdf](https://github.com/Myself1214/Pushing-P-Breakers/files/8773985/RepeatableETLReport.pdf)
 
 # Code
+https://github.com/Myself1214/Pushing-P-Breakers/blob/911b7a98c10bcd38945d8ba9baa1a26b19ab9b23/Code/Dash-Dashboard-Prototype.ipynb
+
+
+https://github.com/Myself1214/Pushing-P-Breakers/blob/911b7a98c10bcd38945d8ba9baa1a26b19ab9b23/Code/Spatial_Area_Interpolation_Model.ipynb
+
+
+https://github.com/Myself1214/Pushing-P-Breakers/blob/911b7a98c10bcd38945d8ba9baa1a26b19ab9b23/Code/ML-Dash-Plots.ipynb
+
+
 
 
 
