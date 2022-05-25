@@ -1,6 +1,5 @@
 # Uninsured in New Jersey
-by: Pushing-P-Breakers: Sharif Rakhimov, Luis Rivera, Marjea Mckoy, Parth Patel, Ahad Hussain 
-
+by: Pushing-P-Breakers
 ## Objective
 Find resources on the uninsured population by filtering and arranging the information into a database, then evaluate and forecast the uninsured population in a certain geographic area based on a set of demographic factors. 
 
