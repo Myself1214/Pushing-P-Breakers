@@ -8,7 +8,7 @@ Find resources on the uninsured population by filtering and arranging the inform
 Small Area Health Insurance Estimates 2019 (SAHIE), NJ Uninsured, NJ Unemployed, NJ Income, Cartographic Boundary Files, Coverage for the Household Population by States, Unemployment by Counties , Census Tract in NJ 
 
 
-#  Exploratory Questions
+#  Exploratory Data Analysis
 1.) Top 10 cities of NJ with the highest number of uninsured residents
 
 
