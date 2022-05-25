@@ -1,10 +1,10 @@
 # Uninsured in New Jersey
 by: Pushing-P-Breakers: Sharif Rakhimov, Luis Rivera, Marjea Mckoy, Parth Patel, Ahad Hussain 
 
-# Objective
+## Objective
 Find resources on the uninsured population by filtering and arranging the information into a database, then evaluate and forecast the uninsured population in a certain geographic area based on a set of demographic factors. 
 
-#  Datasets
+###### Datasets
 Small Area Health Insurance Estimates 2019 (SAHIE), NJ Uninsured, NJ Unemployed, NJ Income, Cartographic Boundary Files, Coverage for the Household Population by States, Unemployment by Counties , Census Tract in NJ 
 
 
